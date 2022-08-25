@@ -1,0 +1,13 @@
+.App{
+    background: linear-gradient(black, blue);
+      width: 50vw;
+        height: 50vh;
+          display: flex;
+            flex-direction: column;
+              align-items: center;
+                justify-content: center;
+                }
+                  
+
+
+
