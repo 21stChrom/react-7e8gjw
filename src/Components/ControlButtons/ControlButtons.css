@@ -14,18 +14,21 @@
 .btn {
     box-shadow: 0px 0px 7px 3px red;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    width: 10vw;
+    width: 20vw;
     height: 5vh;
     font-weight: bolder;
-    border-radius: 14px;
+    border-radius: 15%;
     margin: 0px 6px;
     display: flex;
-    border: 2px solid black;
+    border: 2px solid red;
     justify-content: center;
     align-items: center;
     cursor: pointer;
     color: black;
 }
 .btn-one{
-    background-color: gray;
+    background-color: red;
+}
+.btn-two{
+    background-color: red;
 }
